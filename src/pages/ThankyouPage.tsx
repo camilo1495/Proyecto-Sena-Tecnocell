@@ -34,8 +34,8 @@ export const ThankyouPage = () => {
 					className='text-4xl font-bold self-center tracking-tighter transition-all md:text-5xl'
 				>
 					<p>
-						Celulares
-						<span className='text-cyan-600'>Baratos</span>
+						Tecno
+						<span className='text-cyan-600'>Cell</span>
 					</p>
 				</Link>
 			</header>
@@ -59,16 +59,16 @@ export const ThankyouPage = () => {
 					</p>
 
 					<div className='space-y-0.5 text-sm'>
-						<p>BANCO PICHINCHA</p>
-						<p>Razón Social: CelularesBaratos</p>
-						<p>RUC: 123456789000</p>
+						<p>BANCOLOMBIA</p>
+						<p>Razón Social: TecnoCell</p>
+						<p>NIT: 123456789000</p>
 						<p>Tipo de cuenta: Corriente</p>
 						<p>Número de cuenta: 1234567890</p>
 					</div>
 
 					<p className='text-sm'>
 						Una vez realizada la transferencia, comparte tu
-						comprobante a ventas@Tecnocell.com para procesarla
+						comprobante a ventas@tecnocell.com para procesarla
 						y hacerte la entrega de tu dispositivo a domicilio.
 					</p>
 				</div>
